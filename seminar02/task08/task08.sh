@@ -1,2 +1,2 @@
 #! /bin/bash
-grep -iwc "the" hamlet.txt
+grep -o -wi the hamlet.txt | wc -l

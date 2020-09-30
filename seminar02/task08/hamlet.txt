@@ -1,4 +1,4 @@
-THE TRAGEDY OF HAMLET, PRINCE OF DENMARK
+TRAGEDY OF HAMLET, PRINCE OF DENMARK
 
 
 by William Shakespeare
@@ -4455,5 +4455,4 @@ Enter Hamlet and Horatio.
             Exeunt marching; after the which a peal of ordnance
                                                    are shot off.  
 
-
-THE END
+The END
