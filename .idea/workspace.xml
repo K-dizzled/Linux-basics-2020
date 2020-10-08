@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:original_repo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:hw5" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5573aee-ac76-470e-8616-ed00a94c50cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="5fc48f9d-d2d5-4b4b-9eb2-262ddcc80194" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hdbDrj0gCgyqy6y3KXg52wF8Pc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Makefile.time">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_slow" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="build_slow" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="run_fast" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="run_fast" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="run_slow" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="run_slow" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="time" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="time" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.time" />
+        <item itemvalue="Makefile.clean" />
+        <item itemvalue="Makefile.run_fast" />
+        <item itemvalue="Makefile.run_slow" />
+        <item itemvalue="Makefile.build_slow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5573aee-ac76-470e-8616-ed00a94c50cb" name="Default Changelist" comment="" />
+      <created>1600343800039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600343800039</updated>
+      <workItem from="1600343801105" duration="990000" />
+      <workItem from="1600469623813" duration="2526000" />
+      <workItem from="1600945628655" duration="12859000" />
+      <workItem from="1601016603539" duration="7797000" />
+      <workItem from="1601065817675" duration="1180000" />
+      <workItem from="1601303797323" duration="75000" />
+      <workItem from="1601406632797" duration="593000" />
+      <workItem from="1601464014260" duration="2668000" />
+      <workItem from="1601471385620" duration="33000" />
+      <workItem from="1601476870647" duration="2931000" />
+      <workItem from="1601550415069" duration="581000" />
+      <workItem from="1601551010241" duration="4110000" />
+      <workItem from="1601638343854" duration="7208000" />
+      <workItem from="1601835036739" duration="1518000" />
+      <workItem from="1602143417388" duration="2084000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1600343859226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600343859226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pull up">
+      <created>1600344209701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600344209702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add README.md">
+      <created>1600344328823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600344328823</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <created>1600469704952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600469704952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Do homework number 2">
+      <created>1600506424080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600506424080</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tesk3">
+      <created>1600945822617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600945822617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tesk3">
+      <created>1600946835408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600946835408</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Do Task1">
+      <created>1600948003231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600948003231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Do Task1">
+      <created>1600948094118</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600948094118</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Do Task2">
+      <created>1600959531868</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600959531869</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Do Task3">
+      <created>1600960562727</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600960562727</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Do Task4">
+      <created>1600963139003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600963139003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Do Task5">
+      <created>1601016785989</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601016785989</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix test5">
+      <created>1601016815362</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601016815362</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Do Test06&#10;It seems to be working properly, but the checker says something is incorrect">
+      <created>1601020356006</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601020356006</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Do task07">
+      <created>1601022453672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601022453672</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit">
+      <created>1601464566363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601464566363</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Commit">
+      <created>1601502185421</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502185421</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Correct tasks 3,5,6">
+      <created>1601503275799</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503275799</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ggg">
+      <created>1601550902326</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601550902326</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some commit">
+      <created>1602156559721</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1602156559721</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Some commit">
+      <created>1602156761057</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1602156761057</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Some commit">
+      <created>1602157028493</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602157028493</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hw5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Pull up" />
+    <MESSAGE value="Add README.md" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Do homework number 2" />
+    <MESSAGE value="Tesk3" />
+    <MESSAGE value="Do Task1" />
+    <MESSAGE value="Do Task2" />
+    <MESSAGE value="Do Task3" />
+    <MESSAGE value="Do Task4" />
+    <MESSAGE value="Do Task5" />
+    <MESSAGE value="Fix test5" />
+    <MESSAGE value="Do Test06&#10;It seems to be working properly, but the checker says something is incorrect" />
+    <MESSAGE value="Do task07" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Correct tasks 3,5,6" />
+    <MESSAGE value="ggg" />
+    <MESSAGE value="Some commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1601718451700">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1601718451700" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601066467850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601066467850" />
+    <state x="403" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601553172087">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="403" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601553172087" />
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom" timestamp="1601720034794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601720034794" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center" timestamp="1601720034792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601720034792" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left" timestamp="1601720034791">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601720034791" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right" timestamp="1601720034793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601720034793" />
+    <state x="358" y="218" key="MultipleFileMergeDialog" timestamp="1602156980399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1602156980399" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1600963651430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600963651430" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601021467430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601021467430" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
