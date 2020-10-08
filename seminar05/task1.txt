@@ -1,13 +1,13 @@
 # print your command here
 
-a. git init ...
+a. git init trololo
 
-b.
+b. touch bio.md
 
-c.
+c. touch main.cpp
 
-d.
+d. git add bio.md
 
-e.
+e. git add main.cpp
 
-f.
+f. git commit -m "ggg

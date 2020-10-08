@@ -25,12 +25,15 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:hw5" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:hw5-dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5573aee-ac76-470e-8616-ed00a94c50cb" name="Default Changelist" comment="" />
+    <list default="true" id="b5573aee-ac76-470e-8616-ed00a94c50cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar05/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seminar05/task1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,17 +73,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Makefile.time">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="build_slow" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/seminar04/task01/Makefile" target="build_slow" workingDirectory="" arguments="">
         <envs />
@@ -306,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602157028493</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ggg">
+      <created>1602157462930</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602157462930</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +325,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hw5" />
+                        <option value="hw5-dev" />
                       </list>
                     </value>
                   </entry>
@@ -356,9 +355,9 @@
     <MESSAGE value="Do task07" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Correct tasks 3,5,6" />
-    <MESSAGE value="ggg" />
     <MESSAGE value="Some commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some commit" />
+    <MESSAGE value="ggg" />
+    <option name="LAST_COMMIT_MESSAGE" value="ggg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1601718451700">
