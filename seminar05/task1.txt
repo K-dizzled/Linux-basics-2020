@@ -10,4 +10,10 @@ d. git add bio.md
 
 e. git add main.cpp
 
-f. git commit -m "ggg
+f. git commit -m "ggg"
+
+h. touch Makefile
+
+i. make
+./main
+Hello!%

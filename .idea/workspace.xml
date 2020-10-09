@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602157462930</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Couple of tasks done">
+      <created>1602158785857</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602158785857</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +364,8 @@
     <MESSAGE value="Correct tasks 3,5,6" />
     <MESSAGE value="Some commit" />
     <MESSAGE value="ggg" />
-    <option name="LAST_COMMIT_MESSAGE" value="ggg" />
+    <MESSAGE value="Couple of tasks done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Couple of tasks done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1601718451700">
