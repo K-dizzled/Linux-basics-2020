@@ -17,3 +17,35 @@ h. touch Makefile
 i. make
 ./main
 Hello!%
+
+j. git add .gitignore
+
+k. git add Makefile
+
+l. git commit -m "trololo"
+
+m. git remote add origin https://github.com/K-dizzled/Linux-Basics-HW5.git
+
+n. git push origin master
+
+o. git commit -m "commit1"
+
+p. git commit -m "commit1"
+
+q. git commit -m "commit2"
+
+r. git checkout b200d0f
+
+s. git branch cmake
+
+t. git checkout cmake
+
+v. git commit -m "Do Cmake"
+
+u. git checkout master
+
+w. git merge cmake
+
+x. git commit -m "Merge master and cmake"
+
+y. git push origin master
