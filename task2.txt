@@ -1,1 +1,5 @@
 # print your commands
+sudo docker run -it --rm -d -p 65432:65432 server
+
+
+telnet localhost 65432
