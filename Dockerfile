@@ -1,6 +1,5 @@
-# print your code here
-FROM python:3
+FROM python:latest
 
-ADD src/server.py /
+COPY src/server.py ./server.py
 
-CMD [ "python", "./server.py" ]
+CMD ["python","/server.py"]
