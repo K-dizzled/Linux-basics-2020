@@ -1,0 +1,21 @@
+andrei@MacBook-Pro-Andrej src % sudo docker search haskell
+
+andrei@MacBook-Pro-Andrej src % sudo docker run haskell
+Unable to find image 'haskell:latest' locally
+latest: Pulling from library/haskell
+e4c3d3e4f7b0: Pull complete 
+1953f77b2099: Pull complete 
+9a9145a8af5d: Pull complete 
+3afc2fce90aa: Pull complete 
+Digest: sha256:126e6f8a96193fc90cfd6f377e0a444fe535bd54bdd0ed0811638a07f4ad5672
+Status: Downloaded newer image for haskell:latest
+GHCi, version 8.10.2: https://www.haskell.org/ghc/  :? for help
+Prelude> Leaving GHCi.
+
+andrei@MacBook-Pro-Andrej src % docker run -it --rm haskell  
+GHCi, version 8.10.2: https://www.haskell.org/ghc/  :? for help
+Prelude> 2 + 3
+5
+Prelude> print hello world
+hello world
+
